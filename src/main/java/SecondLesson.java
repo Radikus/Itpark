@@ -6,20 +6,22 @@ public class SecondLesson {
         int arg2=5;
         int arg3 = arg1 + arg2;
         System.out.println(arg3);
-
+         //сложение
         int arg11=10;
         int arg21=5;
         int arg31 = arg1 * arg2;
         System.out.println(arg31);
-
+         //умножение
         int arg6=10;
         int arg5=5;
         int arg4 = arg6 / arg5;
         System.out.println(arg4);
-
+         //деление
         int arg16=10;
         int arg15=5;
         int arg14 = arg16 - arg15;
         System.out.println(arg14);
+        //вычитание
+
     }
 }
