@@ -21,6 +21,5 @@ public class SecondLesson {
         int arg15=5;
         int arg14 = arg16 - arg15;
         System.out.println(arg14);
-
     }
 }
